@@ -12,24 +12,24 @@ Technologies Used
 
 ## Running the Application
 
-**Prerequisites**
+**Prerequisites**  
 Ensure you have Node.js and npm installed on your machine.
 
 **Installation**
 
 1. Clone the repository:
-2. Install dependencies:
+2. Install dependencies:  
    npm install
 
-**Running the Application**
-To start the JSON Server and run the React app:
-npm run server
+**Running the Application**  
+To start the JSON Server and run the React app:  
+npm run server  
 npm run dev
 
 This will start the JSON Server to serve job data and run the React app on a development server using Vite.
 
-**Features**
-View a list of jobs
-Add new job listings
-Edit existing job details
+**Features**  
+View a list of jobs  
+Add new job listings  
+Edit existing job details  
 Delete job listings
