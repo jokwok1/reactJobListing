@@ -1,8 +1,29 @@
-# React + Vite
+Job Listings App
+This is a frontend application built with React that allows users to manage job listings. It includes CRUD operations for jobs and utilizes JSON Server to simulate a backend with a JSON file.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies Used
+React
+Props
+Hooks
+Components
+Vite
+Running the Application
+Prerequisites
+Ensure you have Node.js and npm installed on your machine.
 
-Currently, two official plugins are available:
+Installation
+Clone the repository 
+Install dependencies: npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Running the Application
+To start the JSON Server and run the React app:
+npm run server
+npm run dev
+
+This will start the JSON Server to serve job data and run the React app on a development server using Vite.
+
+Features
+View a list of jobs
+Add new job listings
+Edit existing job details
+Delete job listings
